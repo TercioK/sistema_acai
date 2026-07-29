@@ -2,6 +2,10 @@
 
 O **Açaí Mania** é uma aplicação Java para gerenciamento de vendas e atendimento de açaiterias. O sistema conta com interface gráfica em Java Swing, suporte a consultas rápidas via Java Streams, persistência de dados em arquivos binários e arquitetura baseada no padrão **Fachada (Façade)**.
 
+<div align="center">
+  <img src="logo.png" width="500px">
+</div>
+
 ---
 
 ## 🛠️ Funcionalidades
